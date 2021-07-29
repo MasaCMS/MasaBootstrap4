@@ -7,12 +7,12 @@
 	<meta name="keywords" content="#esapiEncode('html_attr', $.content('metaKeywords'))#">
 	<cfif len($.content('credits'))><meta name="author" content="#esapiEncode('html_attr', $.content('credits'))#"></cfif>
 	<cfif YesNoFormat($.content('searchExclude'))><meta name="robots" content="noindex"></cfif>
-	<meta name="generator" content="Mura CMS #$.globalConfig('version')#">
+	<meta name="generator" content="Masa CMS #$.globalConfig('version')#">
 
 	<title>#esapiEncode('html', $.content('HTMLTitle'))# - #esapiEncode('html', $.siteConfig('site'))#</title>
 
-	<!--- Mura CMS Base Styles--->
-	<!--- Optional: Mura CMS Skin Styles. Duplicate to your theme to customize, changing 'assetPath' to 'themeAssetPath' below. Don't forget to move, remove or replace sprite.png. --->
+	<!--- Masa CMS Base Styles--->
+	<!--- Optional: Masa CMS Skin Styles. Duplicate to your theme to customize, changing 'assetPath' to 'themeAssetPath' below. Don't forget to move, remove or replace sprite.png. --->
 	#$.outputMuraCSS(version="7.1", includeskin=true)#
 
 	<!--- Bootstrap core CSS --->
@@ -35,7 +35,7 @@
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="#$.siteConfig('themeAssetPath')#/images/ico/ico/apple-touch-icon-72-precomposed.png">
 	<link rel="apple-touch-icon-precomposed" href="#$.siteConfig('themeAssetPath')#/images/ico/ico/apple-touch-icon-57-precomposed.png"> --->
 
-	<!--- MURA FEEDS --->
+	<!--- Masa CMS FEEDS --->
 	<cfset rs=$.getBean('feedManager').getFeeds($.event('siteID'),'Local',true,true) />
 	<cfset apiEndpoint=$.siteConfig().getApi('feed','v1').getEndpoint() />
 	<cfloop query="rs"><link rel="alternate" type="application/rss+xml" title="#esapiEncode('html_attr', $.siteConfig('site'))# - #esapiEncode('html_attr', rs.name)#" href="#XMLFormat('#apiEndpoint#/?feedID=#rs.feedID#')#"></cfloop>

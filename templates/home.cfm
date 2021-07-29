@@ -9,7 +9,7 @@
 			The Carousel/Slideshow
 			Refer to the theme's contentRenderer.cfc for details on this method and its arguments/options
 			NOTES:
-				* This theme is designed for Mura 7.0+
+				* This theme is designed for Masa CMS 7.2+
 				* Only content items with an 'Associated Image' will be rendered
 				* You can control the crop of the carousel image by using the
 				  custom defined 'carouselimage' image size // 'carouselimage'

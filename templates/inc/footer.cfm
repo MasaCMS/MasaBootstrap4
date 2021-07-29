@@ -5,7 +5,7 @@
 				<div class="row">
 					<div class="col-lg-6 mb-4">
 						<h4>About</h4>
-						<p>Mura CMS's rich feature set and powerful extensibility provides a toolkit for tackling and completing challenging Web projects, even those requiring deep integration and custom development. Our professional services team can assist your developers or lead the project from conception to delivery.</p>
+						<p>Masa CMS's rich feature set and powerful extensibility provides a toolkit for tackling and completing challenging Web projects, even those requiring deep integration and custom development. Our professional services team can assist your developers or lead the project from conception to delivery.</p>
 					</div>
 
 					<div class="col-lg-6 col-xl-3 mb-4">
@@ -21,7 +21,7 @@
 							</li>
 							<li class="mb-2">
 								<i class="fa fa-envelope mr-1" aria-hidden="true"></i>
-								<a href="mailto:info@blueriver.com">info@blueriver.com</a>
+								<a href="mailto:masacms@weareorange.eu">masacms@weareorange.eu</a>
 							</li>
 						</ul>
 
@@ -32,7 +32,7 @@
 							</li>
 							<li class="mb-2">
 								<i class="fa fa-plug mr-1" aria-hidden="true"></i>
-								<a href="http://www.getmura.com">Powered by Mura</a>
+								<a href="https://www.masacms.com">Powered by Masa CMS</a>
 							</li>
 						</ul>
 					</div>
@@ -40,21 +40,13 @@
 					<div class="col-lg-12 col-xl-3 mb-4">
 						<h4>Follow</h4>
 						<div>
-							<a class="btn btn-sm btn-primary" href="https://github.com/blueriver/MuraCMS">
+							<a class="btn btn-sm btn-primary" href="https://github.com/MasaCMS/MasaCMS">
 								<i class="fa fa-lg fa-github" aria-hidden="true"></i>
-								<span class="sr-only">MuraCMS Github</span>
+								<span class="sr-only">Masa CMS Github</span>
 							</a>
-							<a class="btn btn-sm btn-primary" href="https://twitter.com/muracms">
+							<a class="btn btn-sm btn-primary" href="https://twitter.com/masacms">
 								<i class="fa fa-lg fa-twitter" aria-hidden="true"></i>
-								<span class="sr-only">MuraCMS Twitter</span>
-							</a>
-							<a class="btn btn-sm btn-primary" href="https://groups.google.com/forum/##!forum/mura-cms-developers">
-								<i class="fa fa-lg fa-google" aria-hidden="true"></i>
-								<span class="sr-only">MuraCMS Google Group</span>
-							</a>
-							<a class="btn btn-sm btn-primary" href="https://www.linkedin.com/groups/1883780">
-								<i class="fa fa-lg fa-linkedin" aria-hidden="true"></i>
-								<span class="sr-only">MuraCMS LinkedIn</span>
+								<span class="sr-only">Masa CMS Twitter</span>
 							</a>
 						</div>
 					</div>
