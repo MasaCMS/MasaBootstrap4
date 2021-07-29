@@ -11,7 +11,7 @@
 	holders or developers of Mura™CMS, and the use of the terms Mura™ and Mura™CMS are retained 
 	only to ensure software compatibility, and compliance with the terms of the GPLv2 and 
 	the exception set out below. That use is not intended to suggest any commercial relationship 
-	or endorsement of Masa CMS by Mura™CMS or its developers, copyright holders or sponsors. 
+	or endorsement of Mura™CMS by Masa CMS or its developers, copyright holders or sponsors or visa versa. 
 
 	If you want an original copy of Mura™ CMS please go to murasoftware.com .  
 	For more information about the unaffiliated Masa CMS, please go to masacms.com  
