@@ -12,10 +12,6 @@
 			<div class="navbar-collapse collapse" id="siteNavbar">
 
 				<cf_CacheOMatic key="dspPrimaryNav">
-					<!---
-						For information on dspPrimaryNav(), visit:
-						http://docs.getmura.com/v6/front-end/template-variables/document-body/
-					--->
 					#$.dspPrimaryNav(
 						viewDepth=1
 						, id='navPrimary'
