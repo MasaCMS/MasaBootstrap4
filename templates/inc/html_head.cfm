@@ -7,7 +7,7 @@
 	<meta name="keywords" content="#esapiEncode('html_attr', $.content('metaKeywords'))#">
 	<cfif len($.content('credits'))><meta name="author" content="#esapiEncode('html_attr', $.content('credits'))#"></cfif>
 	<cfif YesNoFormat($.content('searchExclude'))><meta name="robots" content="noindex"></cfif>
-	<meta name="generator" content="Masa CMS #$.globalConfig('version')#">
+	
 
 	<title>#esapiEncode('html', $.content('HTMLTitle'))# - #esapiEncode('html', $.siteConfig('site'))#</title>
 
