@@ -1,3 +1,6 @@
+> [!WARNING]
+> This theme is archived and no longer supported. Please use the [MasaBootstrap5](https://github.com/MasaCMS/MasaBootstrap5) Theme!
+
 # MasaBootstrap4
 A [Masa CMS](http://www.masacms.com) theme based on [Bootstrap](http://getbootstrap.com/) v4, a responsive, mobile first front-end framework for faster and easier web development. This also includes [Font Awesome](http://fontawesome.io/), the iconic font designed for Bootstrap.
 
